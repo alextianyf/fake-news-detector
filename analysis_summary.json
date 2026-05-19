@@ -1,0 +1,45 @@
+{
+  "n_fake": 23481,
+  "n_real": 21417,
+  "title_len_mean_fake": 94.19803245176952,
+  "title_len_mean_real": 64.667880655554,
+  "breaking_acc": 0.4962581852198316,
+  "logreg_title_acc": 0.9181514476614699,
+  "logreg_combined_acc": 0.993652561247216,
+  "top_fake_words": [
+    "wow",
+    "video",
+    "hilarious",
+    "lol",
+    "boiler",
+    "busted",
+    "bombshell",
+    "dem",
+    "supporter",
+    "epic"
+  ],
+  "top_real_leaning": [
+    "factbox",
+    "reuters",
+    "urges",
+    "egypt",
+    "myanmar",
+    "seek",
+    "rohingya",
+    "catalan",
+    "spokesman",
+    "australia"
+  ],
+  "top_fake_leaning": [
+    "video",
+    "gop",
+    "breaking",
+    "watch",
+    "racist",
+    "hillary",
+    "just",
+    "boiler",
+    "audio",
+    "busted"
+  ]
+}
